@@ -73,6 +73,7 @@ library(devtools)
 
 # download and install package through Github
 install_github("dee1008/cWR")
+library(cWR)
 
 set.seed(123)
 

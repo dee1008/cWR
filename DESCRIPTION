@@ -1,0 +1,12 @@
+Package: cWR
+Type: Package
+Title: Win Ratio Analysis
+Version: 1.0
+Date: 2019-03-26
+Author: Di Zhang
+Maintainer: Di Zhang
+   <diz11@pitt.edu>
+Description: 
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.0)
+LinkingTo: Rcpp

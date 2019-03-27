@@ -1,12 +1,16 @@
 Package: cWR
 Type: Package
-Title: What the Package Does in One 'Title Case'
-     Line
+Title: What the Package Does in
+   One 'Title Case' Line
 Version: 1.0
-Date: 2019-01-16
-Author: Di Zhang
-Maintainer: Di Zhang <diz11@pitt.edu>
-Description: This package uses Win Ratio (WR) as a summary statistic to compare the composite endpoints of time-to-event data between two groups. Options of clustered or independent time-to-event data can be specified.
+Date: 2019-03-26
+Author: Your Name
+Maintainer: Your Name
+   <your@email.com>
+Description: One paragraph
+   description of what the
+   package does as one or more
+   full sentences.
 License: GPL (>= 2)
-Imports: Rcpp (>= 0.12.17)
+Imports: Rcpp (>= 1.0.0)
 LinkingTo: Rcpp
